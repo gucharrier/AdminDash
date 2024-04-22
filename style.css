@@ -20,3 +20,19 @@ header form .btn:hover {
     background-color: #f0f0f0;
     font-weight: 600;
 }
+
+.card1 {
+    background-color: #b4eaf6;
+}
+
+.card2 {
+    background-color: #efcfff;
+}
+
+.card3 {
+    background-color: #ffe69c;
+}
+
+.card i {
+    font-size: 1.5rem;
+}
