@@ -36,3 +36,16 @@ header form .btn:hover {
 .card i {
     font-size: 1.5rem;
 }
+
+.progress1 {
+    background-color: #79dfc1;
+}
+.progress2 {
+    background-color: #aaba40;
+}
+.progress3 {
+    background-color: #aee1f9;
+}
+.progress4 {
+    background-color: #ec9ce8;
+}
