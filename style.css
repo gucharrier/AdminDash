@@ -7,7 +7,7 @@ header form .btn{
 }
 
 header form .btn:hover {
-    background-color: #a88ae0;
+    background-color: #323232;
     color: #ffffff;
 }
 
@@ -22,15 +22,15 @@ header form .btn:hover {
 }
 
 .card1 {
-    background-color: #b4eaf6;
+    background-color: #DDD0C8;
 }
 
 .card2 {
-    background-color: #efcfff;
+    background-color: #DDD0C8;
 }
 
 .card3 {
-    background-color: #ffe69c;
+    background-color: #DDD0C8;
 }
 
 .card i {
